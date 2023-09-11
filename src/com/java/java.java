@@ -13,7 +13,7 @@ public class java
 	        System.out.print("Enter the second number: ");
 	        int num2 = scanner.nextInt();
 
-	        int sum = addNumbers(num1, num2);
+	       // int sum = addNumbers(num1, num2);
 
 	        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
 	    }
